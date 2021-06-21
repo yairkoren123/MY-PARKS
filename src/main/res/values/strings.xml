@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyParks</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Map</string>
+    <string name="parks">Parks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="not_price">info not available</string>
+    <string name="hint_search">Enter State code : WA,OR,NY</string>
+</resources>
